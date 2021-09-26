@@ -1,10 +1,10 @@
-# nextjs-starter
+# next-with-preact-auth-db-ts [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](LICENSE)
+
+![next-with-preact-auth-db-ts](https://og-image.vercel.app/Next.js%20starter%20with%20**Preact**%2C%20**FaunaDB**%2C%20**MDX**%2C%20**React%20Query**%2C%20**NextAuth**%20and%20more.png?theme=light&md=1&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg&images=https%3A%2F%2Fapi.iconify.design%2Flogos%2Fpreact.svg%3Fwidth%3D350&images=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fremojansen%2Flogo.ts%40master%2Fts.svg&images=https%3A%2F%2Fapi.iconify.design%2Fvscode-icons%2Ffile-type-fauna.svg%3Fwidth%3D350&widths=350&heights=auto&heights=250&heights=200&heights=250)
 
 A Next.js starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + NextAuth.js (with GitHub Auth + Passwordless Auth) + Fauna DB
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 ## Demo
 
