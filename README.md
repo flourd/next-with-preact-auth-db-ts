@@ -2,17 +2,9 @@
 
 ![next-with-preact-auth-db-ts](https://og-image.vercel.app/Next.js%20starter%20with%20**Preact**%2C%20**FaunaDB**%2C%20**MDX**%2C%20**React%20Query**%2C%20**NextAuth**%20and%20more.png?theme=light&md=1&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg&images=https%3A%2F%2Fapi.iconify.design%2Flogos%2Fpreact.svg%3Fwidth%3D350&images=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fremojansen%2Flogo.ts%40master%2Fts.svg&images=https%3A%2F%2Fapi.iconify.design%2Fvscode-icons%2Ffile-type-fauna.svg%3Fwidth%3D350&widths=350&heights=auto&heights=250&heights=200&heights=250)
 
-A Next.js starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + NextAuth.js (with GitHub Auth + Passwordless Auth) + Fauna DB
+> Next.js starter kit with Preact + Typescript + Tailwind + React Query + NextAuth.js (GitHub Auth + Passwordless) + FaunaDB
 
-
-
-## Demo
-
-- [Website](https://next-starter.bhanuteja.dev)
-- [Blog Post](https://blog.bhanuteja.dev/nextjs-starter-with-authentication-react-17-typescript-tailwind-css-2-eslint?guid=36ac22f4-9641-432a-8837-5ac2f435667a&deviceId=c9650ad1-b0e8-451d-90f0-0df5bab42027)(old)
-  - Will be replaced with new blog post soon.
-
-## Run Locally
+## Getting Started: Local Development
 
 - Clone the project
 
@@ -107,26 +99,8 @@ Please note that this will create a new instance of Fauna everytime you run it, 
 
 ## Feedback & Support
 
-For feedback and support, please [open an issue](https://github.com/pbteja1998/nextjs-starter/issues/new) in this repo.
+For feedback and support, please [open an issue](https://github.com/nberlette/nextjs-starter/issues/new) in this repo.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Roadmap
-
-**TBD**
-
-## Contributing
-
-**TBD**
-
-## Deploying
-
-### Vercel
-
-**TBD**
-
-### Netlify
-
-**TBD**
+[MIT](LICENSE) © 2021+ [Nicholas Berlette](https://github.com/nberlette)
